@@ -35,7 +35,6 @@ export const weddingAlbums = [
     images: [
       folder("black-barbie", "img-3109.jpg"),
       folder("black-barbie", "img-3111.jpg"),
-      w("img-5930.jpg"),
     ],
   },
   {
@@ -98,6 +97,7 @@ export const weddingAlbums = [
       w("img-4937.jpg"),
       w("img-4953.jpg"),
       w("img-5020.jpg"),
+      w("img-5930.jpg"),
     ],
   },
   {

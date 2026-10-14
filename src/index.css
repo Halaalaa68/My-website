@@ -25,6 +25,16 @@ body {
   overflow-x: hidden;
 }
 
+a,
+button,
+[role="button"] {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
 ::selection {
   background: var(--color-gold);
   color: var(--color-ink);
